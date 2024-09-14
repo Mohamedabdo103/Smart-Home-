@@ -2,13 +2,16 @@
 Smart Home /AVR microcontroller
 
 Overview
+
 This project implements a basic Smart Home System using an AVR microcontroller. The system allows the user to control two rooms, an alarm system, and a bell system through a user-friendly interface. A virtual terminal connected via USART protocol displays all actions taken.
 
 Features
+
 Room 1 Control:
 
 Consists of LED and Fan.
 Allows the user to turn the LED and fan on or off.
+
 Room 2 Control:
 
 Similar to Room 1, it consists of LED and Fan for control.
